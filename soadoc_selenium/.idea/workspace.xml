@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="59d459d0-6d13-42cd-a94a-10fd0b08cffc" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1g3qXUpxpseTYXH5g9MNanEUtjW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="JUnit.All in soadoc_selenium (4)">
+    <configuration name="All in soadoc_selenium (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="soadoc_selenium" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in soadoc_selenium (2)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="soadoc_selenium" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in soadoc_selenium (3)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="soadoc_selenium" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in soadoc_selenium (4)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="soadoc_selenium" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in soadoc_selenium" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="soadoc_selenium" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.All in soadoc_selenium (4)" />
+        <item itemvalue="JUnit.All in soadoc_selenium (3)" />
+        <item itemvalue="JUnit.All in soadoc_selenium (2)" />
+        <item itemvalue="JUnit.All in soadoc_selenium (1)" />
+        <item itemvalue="JUnit.All in soadoc_selenium" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="59d459d0-6d13-42cd-a94a-10fd0b08cffc" name="Default Changelist" comment="" />
+      <created>1597353662620</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597353662620</updated>
+      <workItem from="1597353689944" duration="4471000" />
+      <workItem from="1597411756341" duration="1646000" />
+      <workItem from="1597424919560" duration="9591000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1776" y="119" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1597427951297">
+      <screen x="1366" y="0" width="1360" height="728" />
+    </state>
+    <state x="1776" y="119" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1366.728/1366.0.1360.728@1366.0.1360.728" timestamp="1597427951297" />
+    <state x="1851" y="80" key="#com.intellij.ide.util.MemberChooser" timestamp="1597427976203">
+      <screen x="1366" y="0" width="1360" height="728" />
+    </state>
+    <state x="1851" y="80" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728/1366.0.1360.728@1366.0.1360.728" timestamp="1597427976203" />
+    <state x="1908" y="141" key="FileChooserDialogImpl" timestamp="1597448146261">
+      <screen x="1366" y="0" width="1600" height="860" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1360.728@0.0.1366.728" timestamp="1597424436754" />
+    <state x="1908" y="141" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1600.860@1366.0.1600.860" timestamp="1597448146261" />
+    <state width="1557" height="222" key="GridCell.Tab.0.bottom" timestamp="1597448153905">
+      <screen x="1366" y="0" width="1600" height="860" />
+    </state>
+    <state width="1323" height="237" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1360.728@0.0.1366.728" timestamp="1597447731100" />
+    <state width="1317" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1360.728@1366.0.1360.728" timestamp="1597435738143" />
+    <state width="1557" height="222" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1600.860@1366.0.1600.860" timestamp="1597448153905" />
+    <state width="1557" height="222" key="GridCell.Tab.0.center" timestamp="1597448153904">
+      <screen x="1366" y="0" width="1600" height="860" />
+    </state>
+    <state width="1323" height="237" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1360.728@0.0.1366.728" timestamp="1597447731100" />
+    <state width="1317" height="179" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1360.728@1366.0.1360.728" timestamp="1597435738143" />
+    <state width="1557" height="222" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1600.860@1366.0.1600.860" timestamp="1597448153904" />
+    <state width="1557" height="222" key="GridCell.Tab.0.left" timestamp="1597448153904">
+      <screen x="1366" y="0" width="1600" height="860" />
+    </state>
+    <state width="1323" height="237" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1360.728@0.0.1366.728" timestamp="1597447731100" />
+    <state width="1317" height="179" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1360.728@1366.0.1360.728" timestamp="1597435738143" />
+    <state width="1557" height="222" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1600.860@1366.0.1600.860" timestamp="1597448153904" />
+    <state width="1557" height="222" key="GridCell.Tab.0.right" timestamp="1597448153905">
+      <screen x="1366" y="0" width="1600" height="860" />
+    </state>
+    <state width="1323" height="237" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1360.728@0.0.1366.728" timestamp="1597447731100" />
+    <state width="1317" height="179" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1360.728@1366.0.1360.728" timestamp="1597435738143" />
+    <state width="1557" height="222" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1600.860@1366.0.1600.860" timestamp="1597448153905" />
+    <state x="213" y="19" key="Maven.ArtifactSearchDialog" timestamp="1597446902647">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="213" y="19" key="Maven.ArtifactSearchDialog/0.0.1366.728/1366.0.1360.728@0.0.1366.728" timestamp="1597446902647" />
+    <state x="1548" y="50" key="new project wizard" timestamp="1597448140830">
+      <screen x="1366" y="0" width="1600" height="860" />
+    </state>
+    <state x="1548" y="50" key="new project wizard/0.0.1366.728/1366.0.1600.860@1366.0.1600.860" timestamp="1597448140830" />
+    <state x="1702" y="162" key="run.anything.popup" timestamp="1597435615247">
+      <screen x="1366" y="0" width="1360" height="728" />
+    </state>
+    <state x="1702" y="162" key="run.anything.popup/0.0.1366.728/1366.0.1360.728@1366.0.1360.728" timestamp="1597435615247" />
+  </component>
+</project>
